@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "first_name": "Vinno",
+    "last_name": "Mwangi",
+    "image": "https://example.com/images/liza.jpg",
+    "profile_name": "vinno_m",
+    "comment": "Loving the new features on this platform!"
+  },
+  {
+    "id": 2,
+    "first_name": "John",
+    "last_name": "Alala",
+    "image": "https://example.com/images/john.jpg",
+    "profile_name": "johnny_A",
+    "comment": "Great work on the latest update!"
+  },
+  {
+    "id": 3,
+    "first_name": "Ruth",
+    "last_name": "Iguta",
+    "image": "https://example.com/images/aisha.jpg",
+    "profile_name": "rut_ig",
+    "comment": "Can’t wait to see the end of this project !"
+  }
+]

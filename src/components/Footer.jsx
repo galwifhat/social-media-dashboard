@@ -1,7 +1,14 @@
 import React from "react";
 
-const Footer = () => {
-  return <div>Footer</div>;
+export default function Footer(){
+  return (
+    <>
+      <footer>
+        <p> &copy; 2025 social media dashboard</p>
+      </footer>
+    </>
+  );
 };
 
-export default Footer;
+
+
