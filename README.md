@@ -14,7 +14,7 @@ It should also take in comments from other users providing interactiveness.
 3:Pieces of code representing a functionality should be build seperately in indivudual component for ease of debuging and version control.
 4.Data fetching with functions such as useEffect,and manipulation of data(iteration) by use of .map mathod.
 5.The dash should be appealing and welcoming with simple but classic features by use of css features such as tailwindcss or bootstrap.
-6.All the essential parts of a webpage to be working perfectly eg header,body and footer sections well differentiated.
+6.All the essential parts of a webpage to be working perfectly eg header,body and footer sections well differentiated.work done
 
 
 
