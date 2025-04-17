@@ -5,7 +5,7 @@ import Comment from "./Comment";
 
 const Content = () => {
   return (
-    <div>
+    <div >
       Content
       <FormCard />
       <Search />
