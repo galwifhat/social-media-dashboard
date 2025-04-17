@@ -1,0 +1,29 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "first_name": "Vincent",
+      "last_name": "Mwangi",
+      "image": "./public/images/vinno.jpg",
+      "profile_name": "vinno_m",
+      "comment": "Loving the new features on this platform!"
+    },
+    {
+      "id": 2,
+      "first_name": "Johnson",
+      "last_name": "Alala",
+      "image": "./public/images/alala.jpeg",
+      "profile_name": "johnny_A",
+      "comment": "Great work on the latest update!"
+    },
+    {
+      "id": 3,
+      "first_name": "Ruth",
+      "last_name": "Iguta",
+      "image": "./public/images/ruth.jpeg",
+      "profile_name": "ruthy_g",
+      "comment": "Excited to see where this goes!"
+    }
+  ]
+}
+
