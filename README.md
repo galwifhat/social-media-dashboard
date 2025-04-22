@@ -1,12 +1,12 @@
 #SOCIAL MEDIA DASHBOARD
 
-## User Stories\*\*
+## User Stories
 
 As a user,this social media platform should help you navigate with ease over the dashboard.
 The dashboard should offer options of updating personal information with just a click of a few buttons.
 It should also take in comments from other users providing interactiveness.
 
-## MVP's\*\*
+## MVP's
 
 1:Use react components that ensure reusability and offer future improvement.
 2:The App should contain form data which is dynamic using state.
